@@ -58,7 +58,8 @@
 
 
 ## Output:
-![Screenshot 2025-04-24 152821](https://github.com/user-attachments/assets/6851179b-b3e0-454e-8782-79924bf5cd0e)
+![image](https://github.com/user-attachments/assets/4dfaff4c-b7c2-4f4b-83c6-d5fa99253b9f)
+
 
 ### Name: M KRISHNA KUMARAN
 ### Register Number: 212224110033
